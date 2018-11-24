@@ -11,6 +11,7 @@
 
 
 ## Training
+* [Udemy](https://www.udemy.com/) - tons of courses on sale at $10, including [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/aws-lambda-serverless/), usually $100!
 * [Vue Mastery](https://www.vuemastery.com/) - 35% off on yearly plan. Use code `"BLACKFRIDAY"`
 * [Design + Code](https://designcode.io/) - 50% off.
 * [Level Up Tutorials](https://www.leveluptutorials.com/) - 50% off on yearly plan.
@@ -20,7 +21,6 @@
 * [ES6 For Everyone](https://es6.io/) - 50% off.
 * [Laracasts](https://laracasts.com/sales/2018) - 50% off all subscriptions.
 * [Mike Driscoll's Python books](https://www.blog.pythonlibrary.org/2018/11/21/black-friday-cyber-monday-sale-2018/) - most for $10
-* [Udemy](https://www.udemy.com/) - tons of courses on sale at $10, including [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/aws-lambda-serverless/), usually $100!
 * [Learn AWS By Using It](https://www.kylegalbraith.com/learn-aws) - 60% off all packages. Use code `"learnaws18"`.
 * [Vue School](https://vueschool.io/) - 40% off.
 * [MegaMaker](https://megamaker.co/blackfriday/) - Upto 65% off.
@@ -31,6 +31,7 @@
 * [Pluralsight](https://learn.pluralsight.com/offers/2018/black-friday) - 33% off
 * [LeetCode](https://leetcode.com/subscribe/) - $30 off. Use code `"THANKS2018"`
 * [O'Reilly](https://www.oreilly.com/online-learning/cybermonday-2018.html) - $200 off
+* [Blockgeeks](https://courses.blockgeeks.com/enrollment/) - 20% off
 
 
 ## Design
