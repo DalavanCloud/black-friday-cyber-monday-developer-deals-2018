@@ -45,6 +45,7 @@
 * [Paste](https://pasteapp.me/) - 30% off. Use code `"BLACK-FRIDAY-2018"`
 * [PDF Expert](https://pdfexpert.com/) - 40% off.
 * [Framer X](https://framer.com/) - 30% off.
+* [Deleaker](http://deleaker.com/order.html) - 33% off. Use code `"BLACKFRIDAY2018"`
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Up to 50% off.
