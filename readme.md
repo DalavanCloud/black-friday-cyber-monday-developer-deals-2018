@@ -26,12 +26,12 @@
 * [MegaMaker](https://megamaker.co/blackfriday/) - Upto 65% off.
 * [VSCode Power User](https://vscode.pro/) - 40% off.
 * [Advanced Vue Component Design, Test-Driven Laravel, and Refactoring to Collections](https://adamwathan.me/black-friday-2018/) - Up to 70% off.
-* [Painless Docker Training](https://painlessdocker.com/black-friday-deals/) - 75% off
-* [Practical AWS Training](https://practicalaws.com/black-friday-deals/) - 75% off
-* [Pluralsight](https://learn.pluralsight.com/offers/2018/black-friday) - 33% off
+* [Painless Docker Training](https://painlessdocker.com/black-friday-deals/) - 75% off.
+* [Practical AWS Training](https://practicalaws.com/black-friday-deals/) - 75% off.
+* [Pluralsight](https://learn.pluralsight.com/offers/2018/black-friday) - 33% off.
 * [LeetCode](https://leetcode.com/subscribe/) - $30 off. Use code `"THANKS2018"`
-* [O'Reilly](https://www.oreilly.com/online-learning/cybermonday-2018.html) - $200 off
-* [Blockgeeks](https://courses.blockgeeks.com/enrollment/) - 20% off
+* [O'Reilly](https://www.oreilly.com/online-learning/cybermonday-2018.html) - $200 off.
+* [Blockgeeks](https://courses.blockgeeks.com/enrollment/) - 20% off.
 
 
 ## Design
