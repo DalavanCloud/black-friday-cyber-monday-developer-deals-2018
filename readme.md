@@ -47,6 +47,7 @@
 * [PDF Expert](https://pdfexpert.com/) - 40% off.
 * [Framer X](https://framer.com/) - 30% off.
 * [Deleaker](http://deleaker.com/order.html) - 33% off. Use code `"BLACKFRIDAY2018"`
+* [Momentum](https://momentumdash.com/plus) - 40% off.
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Up to 50% off.
