@@ -32,7 +32,7 @@
 * [LeetCode](https://leetcode.com/subscribe/) - $30 off. Use code `"THANKS2018"`
 * [O'Reilly](https://www.oreilly.com/online-learning/cybermonday-2018.html) - $200 off.
 * [Blockgeeks](https://courses.blockgeeks.com/enrollment/) - 20% off.
-
+* [Linux Academy](https://linuxacademy.com/) - 33% off yearly plan.
 
 ## Design
 * [IconJar](https://geticonjar.com/) - 40% off. Use code `"BlackFriday2018"`
